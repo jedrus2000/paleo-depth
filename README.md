@@ -7,6 +7,8 @@
   
   Hill shading :
 ![Hill shading](sample_images/1.jpg)
+   
+  Normal colour render :
 ![Colour rendering](sample_images/2.jpg)
 
   
